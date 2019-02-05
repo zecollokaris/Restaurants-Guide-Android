@@ -79,3 +79,9 @@ Link:-> ```https://github.com/zecollokaris/Restaurants-Guide-Android```
 7. Open your **Android Studio Editor and run the Application**.
 
 ## Support & Contact
+
+- Mobile number: (+254) 798731203
+
+- Email Address: collo.kariss@gmail.com
+
+- github-username: [zecollokaris](https://github.com/zecollokaris)
