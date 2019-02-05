@@ -63,7 +63,7 @@ Android SDK build tools used to debug, build, run and test an Android applicatio
 
 6. **[Yelp API](https://www.yelp.com/developers)**
 
-## **SETUP/INSTALLATION!**s
+## **SETUP/INSTALLATION!**
 
 1. You will need **Internet connection**.
 
