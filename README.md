@@ -77,3 +77,5 @@ Link:-> ```https://github.com/zecollokaris/Restaurants-Guide-Android```
 6. If you have all the **Pre-requisites**
 
 7. Open your **Android Studio Editor and run the Application**.
+
+## Support & Contact
