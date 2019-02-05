@@ -35,3 +35,6 @@ Android SDK used to provide all the necessary developer tools to build, test, an
 4. [Android Build Tools](https://developer.android.com/studio/releases/build-tools)
 
 Android SDK build tools used to debug, build, run and test an Android application.
+
+
+## TECHNOLOGIES USED:
