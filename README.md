@@ -68,4 +68,12 @@ Android SDK build tools used to debug, build, run and test an Android applicatio
 
 Link:-> ```https://github.com/zecollokaris/Restaurants-Guide-Android```
 
+3. From there you can access **Restaurant Guide**.
 
+4. **Clone** the project.
+
+5. **get into project folder** (cd into project).
+
+6. If you have all the **Pre-requisites**
+
+7. Open your **Android Studio Editor and run the Application**.
