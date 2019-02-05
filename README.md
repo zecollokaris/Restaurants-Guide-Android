@@ -61,3 +61,7 @@ Android SDK build tools used to debug, build, run and test an Android applicatio
 6. **[Yelp API](https://www.yelp.com/developers)**
 
 ## **SETUP/INSTALLATION!**
+
+1. You will need **Internet connection**.
+
+2. You need to get into the **Coin-Base-BlockChain-Android Repository**.
