@@ -67,6 +67,10 @@ Android SDK build tools used to debug, build, run and test an Android applicatio
 
 6. **[Yelp API](https://www.yelp.com/developers)**
 
+**Yelp is a platform which provides reliable and unified data APIs to restaurants listings and restaurant reviews.**
+
+
+
 ## **SETUP/INSTALLATION!**
 
 1. You will need **Internet connection**.
