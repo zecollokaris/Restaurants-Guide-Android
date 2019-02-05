@@ -42,3 +42,8 @@ Android SDK build tools used to debug, build, run and test an Android applicatio
 2. **[Java](https://java.com/en/download/)**
 
 **source language.**
+
+
+3. **[Gradle](https://gradle.org/)**
+
+**For dependency management and running tasks.**
