@@ -7,7 +7,11 @@ This is an Android application with User Reviews and Recommendations of Best Res
 
 ## FEATURES
 
-The application allows users to view Best Restaurants Services and get User Reviews and Recommendations using the Yelp API.
+The application allows users to view Best Restaurants.
+
+- User can view Best Restaurants Services
+- User can get Resturant Reviews
+- User can view Recommendations using the Yelp API.
 
 ## PRE-REQUISITES.
 
