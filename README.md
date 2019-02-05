@@ -1,3 +1,6 @@
+# <p align="center">RESTAURANT GUIDE<p>
+
+
 ## DESCRIPTION
 
 This is an Android application with User Reviews and Recommendations of Best Restaurants Services and More using Yelp API.
