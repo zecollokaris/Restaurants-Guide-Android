@@ -22,7 +22,10 @@ The application allows users to view Best Restaurants.
 <img align="right" width="250" src="Spec.md/Disp13.png" alt="Authenticating login" />
 <p>
 
-
+<p align="center">
+<img align="left" width="250" src="Spec.md/Disp6.png" alt="Navigation Drawer" />
+<img align="right" width="250" src="Spec.md/Disp8.png" alt="Home page 2" />
+<p>
 
 
 ## PRE-REQUISITES.
