@@ -13,6 +13,8 @@ The application allows users to view Best Restaurants.
 - User can get Resturant Reviews
 - User can view Recommendations using the Yelp API.
 
+## DEMO
+
 ## PRE-REQUISITES.
 
 A couple of things to get you started:
