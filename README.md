@@ -15,19 +15,21 @@ The application allows users to view Best Restaurants.
 
 ## DEMO
 
-**This is a view of the application.**
+#### This is a view of the application.
 
 <p align="center">
 <img align="left" width="250" src="Spec.md/Disp1.png" alt="Start page" />
-<img align="right" width="250" src="Spec.md/Disp2.png" alt="Restaurant listing" />
-<p>
-
-
-<p align="center">
-<img align="left" width="250" src="Spec.md/Disp3.png" alt="Restaurant listing" />
+<img align="center" width="250" src="Spec.md/Disp3.png" alt="Restaurant listing" />
 <img align="right" width="250" src="Spec.md/Disp4.png" alt="Restaurant listing" />
 <p>
 
+#### List of Restaurants with the reviews beside and their categories.
+
+<p align="center">
+<img align="left" width="250" src="Spec.md/Disp2.png" alt="Restaurant listing" />
+<img align="center" width="250" src="Spec.md/Disp3.png" alt="Restaurant listing" />
+<img align="right" width="250" src="Spec.md/Disp4.png" alt="Restaurant listing" />
+<p>
 
 ## PRE-REQUISITES.
 
