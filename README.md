@@ -15,6 +15,16 @@ The application allows users to view Best Restaurants.
 
 ## DEMO
 
+**This is a view of the application.**
+
+<p align="center">
+<img align="left" width="250" src="Spec.md/Disp4.png" alt="Login page" />
+<img align="right" width="250" src="Spec.md/Disp13.png" alt="Authenticating login" />
+<p>
+
+
+
+
 ## PRE-REQUISITES.
 
 A couple of things to get you started:
