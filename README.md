@@ -18,14 +18,14 @@ The application allows users to view Best Restaurants.
 **This is a view of the application.**
 
 <p align="center">
-<img align="left" width="250" src="Spec.md/Disp1.png" alt="Login page" />
-<img align="right" width="250" src="Spec.md/Disp2.png" alt="Authenticating login" />
+<img align="left" width="250" src="Spec.md/Disp1.png" alt="Start page" />
+<img align="right" width="250" src="Spec.md/Disp2.png" alt="Restaurant listing" />
 <p>
 
 
 <p align="center">
-<img align="left" width="250" src="Spec.md/Disp3.png" alt="Navigation Drawer" />
-<img align="right" width="250" src="Spec.md/Disp4.png" alt="Home page 2" />
+<img align="left" width="250" src="Spec.md/Disp3.png" alt="Restaurant listing" />
+<img align="right" width="250" src="Spec.md/Disp4.png" alt="Restaurant listing" />
 <p>
 
 
